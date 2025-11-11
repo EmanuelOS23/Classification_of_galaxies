@@ -28,7 +28,7 @@ O objetivo é observar como cada método de conversão afeta a capacidade da **L
 
 ### 1️⃣ Abrir o notebook
 
-Abra o arquivo **`galaxy10_gray_lenet5.ipynb`** no **[Google Colab](https://colab.research.google.com/)**  
+Abra o arquivo **`gGalaxyClassification.ipynb`** no **[Google Colab](https://colab.research.google.com/)**  
 ou em seu ambiente local (Jupyter Notebook, VS Code, etc.).
 
 ---
